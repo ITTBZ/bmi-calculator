@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BMI Calculator</string>
+    <string name="app_name">BMI-Rechner</string>
+    <string name="input.weight_hint">Gewicht in Kilogram</string>
+    <string name="input.height_hint">Grösse in Metern</string>
 </resources>
